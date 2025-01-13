@@ -7,8 +7,10 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## Introduction
+He's doing a bunch of editing and stuff. I'm just here listening.
 
 ## Purpose
+And another. When will he stop.
 
 ## Deployement
 
