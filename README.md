@@ -16,3 +16,6 @@ And another. When will he stop.
 Lets try now
 
 ## How to contribute
+
+### Copyright
+2025 test
