@@ -16,6 +16,7 @@ And another. When will he stop.
 Lets try now
 
 ## How to contribute
+Change on Master branch while there is also a change on a branch simple-changes
 
 ### Copyright
 2025 test
