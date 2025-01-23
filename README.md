@@ -23,4 +23,4 @@ Lets try now
 Change on Master branch while there is also a change on a branch simple-changes
 
 ### Copyright
-2025 test
+2025 test. All rights reserved for Stash example
