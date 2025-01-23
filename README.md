@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+Example change for stashing with untracked files.
 
 ## Purpose
 
