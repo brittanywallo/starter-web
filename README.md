@@ -6,6 +6,9 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
+## Rebasing
+This seems like a good enough place to edit in order to have an example change for Rebasing
+
 ## Introduction
 He's doing a bunch of editing and stuff. I'm just here listening.
 
